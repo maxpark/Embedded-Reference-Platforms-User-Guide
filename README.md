@@ -85,7 +85,6 @@ For other versions, refer to the [reVISION Getting Started Guide](http://www.wik
 * Minor fixes and improvements.
 
 
-
 ## 1.3. Technical Support
 
 Go to the [Xilinx Answers Database](https://www.xilinx.com/support.html) to locate answers to known issues. Go to the [Xilinx Community Forums](https://forums.xilinx.com/) to ask questions or discuss technical details and issues. Make sure to browse the existing topics first before filing a new topic. If you do file a new topic, make sure it is filed in the sub-forum that best describes your issue or question (for example, Embedded Linux for any Linux-related questions). Include the platform name (for example, ZCU104 Smart Camera) and the release version in the topic name along with a brief summary of the issue.
